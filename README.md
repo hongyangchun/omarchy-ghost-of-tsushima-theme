@@ -6,6 +6,19 @@ Embody the duality of samurai honor and the way of the Ghost: deep sumi-e ink ch
 
 ![Ghost of Tsushima preview](preview.png)
 
+## Install
+
+```bash
+omarchy theme install https://github.com/hongyangchun/omarchy-ghost-of-tsushima-theme.git
+```
+
+Or from the desktop: `Super + Alt + Space` → **Install** → **Style** → **Theme**, then paste the repository URL above.
+
+To activate:
+```bash
+omarchy theme set "Ghost Of Tsushima"
+```
+
 ## Design Philosophy
 
 - **Background & Canvas (`#0e1014`, `#08090d`)**: Deep sumi-e ink black and midnight charcoal evoking night stealth, bamboo grove shadows, and stormy seas off the Komoda coast.
