@@ -112,3 +112,7 @@ Defaulted to `Yaru-red-dark` to match the Sakai crimson accents across file mana
 ## License
 
 MIT — see [LICENSE](LICENSE). Artworks and game trademarks © Sucker Punch Productions & Sony Interactive Entertainment.
+
+---
+
+> This theme was made with the [omarchy-theme-skill](https://github.com/hongyangchun/omarchy-theme-skill) - the pipeline that sources art, builds palettes and ships the repo.
